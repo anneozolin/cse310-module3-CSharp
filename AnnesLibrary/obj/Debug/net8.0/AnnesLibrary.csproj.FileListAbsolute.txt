@@ -1,0 +1,15 @@
+c:\Users\aneli\Desktop\BYU\CSE310\Portifolio\cse310-module3-CSharp\AnnesLibrary\bin\Debug\net8.0\AnnesLibrary.exe
+c:\Users\aneli\Desktop\BYU\CSE310\Portifolio\cse310-module3-CSharp\AnnesLibrary\bin\Debug\net8.0\AnnesLibrary.deps.json
+c:\Users\aneli\Desktop\BYU\CSE310\Portifolio\cse310-module3-CSharp\AnnesLibrary\bin\Debug\net8.0\AnnesLibrary.runtimeconfig.json
+c:\Users\aneli\Desktop\BYU\CSE310\Portifolio\cse310-module3-CSharp\AnnesLibrary\bin\Debug\net8.0\AnnesLibrary.dll
+c:\Users\aneli\Desktop\BYU\CSE310\Portifolio\cse310-module3-CSharp\AnnesLibrary\bin\Debug\net8.0\AnnesLibrary.pdb
+c:\Users\aneli\Desktop\BYU\CSE310\Portifolio\cse310-module3-CSharp\AnnesLibrary\obj\Debug\net8.0\AnnesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aneli\Desktop\BYU\CSE310\Portifolio\cse310-module3-CSharp\AnnesLibrary\obj\Debug\net8.0\AnnesLibrary.AssemblyInfoInputs.cache
+c:\Users\aneli\Desktop\BYU\CSE310\Portifolio\cse310-module3-CSharp\AnnesLibrary\obj\Debug\net8.0\AnnesLibrary.AssemblyInfo.cs
+c:\Users\aneli\Desktop\BYU\CSE310\Portifolio\cse310-module3-CSharp\AnnesLibrary\obj\Debug\net8.0\AnnesLibrary.csproj.CoreCompileInputs.cache
+c:\Users\aneli\Desktop\BYU\CSE310\Portifolio\cse310-module3-CSharp\AnnesLibrary\obj\Debug\net8.0\AnnesLibrary.sourcelink.json
+c:\Users\aneli\Desktop\BYU\CSE310\Portifolio\cse310-module3-CSharp\AnnesLibrary\obj\Debug\net8.0\AnnesLibrary.dll
+c:\Users\aneli\Desktop\BYU\CSE310\Portifolio\cse310-module3-CSharp\AnnesLibrary\obj\Debug\net8.0\refint\AnnesLibrary.dll
+c:\Users\aneli\Desktop\BYU\CSE310\Portifolio\cse310-module3-CSharp\AnnesLibrary\obj\Debug\net8.0\AnnesLibrary.pdb
+c:\Users\aneli\Desktop\BYU\CSE310\Portifolio\cse310-module3-CSharp\AnnesLibrary\obj\Debug\net8.0\AnnesLibrary.genruntimeconfig.cache
+c:\Users\aneli\Desktop\BYU\CSE310\Portifolio\cse310-module3-CSharp\AnnesLibrary\obj\Debug\net8.0\ref\AnnesLibrary.dll
